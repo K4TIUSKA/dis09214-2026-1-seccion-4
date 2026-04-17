@@ -2,10 +2,10 @@
 
 ### ñañañaña
 
-parrafo
+gatito
 
-separado
+saca la 
 
-por espacios en blanco
+lengua
 
 ![texto que explica la imagen](./sillycat.png)
